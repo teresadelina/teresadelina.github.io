@@ -12,10 +12,15 @@ p{
   color: rgb(0,0,0)
 }
 
-a{
-  color: rgb(0,135):
+a}
+  color:green;
+}
+
+a:hover{
+  color:black;
 }
 
 li{
-  color: rgb(0, 135,0)
+  color:white;
 }
+  
