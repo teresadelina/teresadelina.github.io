@@ -1,7 +1,15 @@
 body {
-  background-color:yellow;
+  background-color: rgb(135, 188, 234);
+}
+
+p{
+  color: rgb(0,0,0)
 }
 
 a{
-  color black;
+  color: rgb(0,135):
+}
+
+li{
+  color: rgb(0, 135,0)
 }
