@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Mali:400i');
 @import url('https://fonts.googleapis.com/css?family=Lobster|Mali:400i');
+@import url('https://fonts.googleapis.com/css?family=Courgette|Lobster|Mali:400i');
 
 
 body {
@@ -24,6 +25,8 @@ p {
 
 a {
   color:green;
+  font-family: 'Courgette', cursive;
+ 
 }
 
 a:hover{
