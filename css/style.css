@@ -12,7 +12,7 @@ h1 {
 
 p {
   color:(0,0,0);
-  font-size: 24px;
+  font-size:30px;
 }
 
 a {
@@ -21,11 +21,11 @@ a {
 
 a:hover{
   color:black;
-  font-size: 19px;
+  font-size:27px;
 }
 
 li{
   color:white;
-  font-size: 26px;
+  font-size:30px;
 }
   
