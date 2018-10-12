@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Mali:400i');
 @import url('https://fonts.googleapis.com/css?family=Lobster|Mali:400i');
 @import url('https://fonts.googleapis.com/css?family=Courgette|Lobster|Mali:400i');
+@import url('https://fonts.googleapis.com/css?family=Courgette|Kaushan+Script|Lobster|Mali:400i');
 
 
 
@@ -33,6 +34,7 @@ a {
 a:hover{
   color:black;
   font-size:27px;
+  font-family: 'Kaushan Script', cursive;
 }
 
 li{
