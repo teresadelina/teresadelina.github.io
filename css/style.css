@@ -5,12 +5,14 @@ body {
 h1 {
   background-color: black;
   color:red;
+  font-size: 20px;
 }
 
 
 
 p {
   color:(0,0,0);
+  font-size: 24px;
 }
 
 a {
@@ -19,9 +21,11 @@ a {
 
 a:hover{
   color:black;
+  font-size: 19px;
 }
 
 li{
   color:white;
+  font-size: 26px;
 }
   
