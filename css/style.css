@@ -43,22 +43,22 @@ li{
   font-size:30px;
 }
  div{
-   background-color:pink;
+   background-color: pink;
  
  .kotak1{
-   background-color:yellow;
+   background-color: yellow;
    width: 400px;
    height: 800px;
    }
    
  .kotak2{
-   background-color:Chartreuse;
+   background-color: Chartreuse;
    width: 200px;
    height: 800px;
    }
    
  .kotak3{
-    background-color:DeepPink;
+    background-color: DeepPink;
     width: 600px;
    height: 200px;
    }
