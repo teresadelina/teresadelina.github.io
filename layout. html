@@ -5,6 +5,7 @@
    <link href="css/style.css" rel="stylesheet">
   </head>
  <body>
+   <!--this is box 1-->
    <div>kotak 1</div>
    </body>
  </html>
