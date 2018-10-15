@@ -1,1 +1,11 @@
-
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>latihan layout css</title>
+   <link href="css/style.css" rel="stylesheet">
+  </head>
+ <body>
+   <div>kotak 1</div>
+   </body>
+ </html>
+  
