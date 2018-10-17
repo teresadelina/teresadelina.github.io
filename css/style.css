@@ -63,3 +63,16 @@ li{
     width: 600px;
    height: 200px;
 }
+.adel {
+  background-color: lime;
+    widhth: 70%;
+    float:left;
+    height:100px;
+}  
+.you {
+    background-color:rgb(0,0,0);
+    widhth: 70%;
+    float: right;
+    height:100px;
+}  
+  
