@@ -65,18 +65,18 @@ li{
 }
 .adel {
   background-color: lime;
-    widhth: 70%;
+    widhth: 33,33;
     float:left;
     height:30px;
 }  
 .you {
     background-color:rgb(0,0,0);
-    widhth: 70%;
+    widhth:33,33;
     float: right;
     height:30px;
 }  
   .boy {
     background-color:rgb(0,0,0);
-    widhth: 70%;
+    widhth: 33,33;
     float: left,left,left;
     height:30px;
