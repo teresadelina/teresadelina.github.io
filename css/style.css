@@ -65,15 +65,15 @@ li{
 }
 .adel {
   background-color: lime;
-    width: 33.33%;
+    width: 600PX;
     float:left;
-    height:30px;
+    height:200px;
 }  
 .you {
     background-color:rgb(0,0,0);
-    width:33.33%;
+    width:600PX;
     float:left;
-    height:30px;
+    height:200px;
 }  
   .boy {
     background-color:rgb(0,0,0);
@@ -97,30 +97,10 @@ li{
     background-color:rgb(0,0,0);
     width: 33.33%;
     float:left;
-    height:30px;.kotak1 
+    height:30px;
 }
- .kotak 1{
-   background-color: yellow;
-   width: 400px;
-   height: 80px;
-   float:left:
-     
-}
+ 
    
-.kotak2{
-   background-color: Chartreuse;
-   width: 400px;
-   height: 80px;
-   float:left:
-   
-}
-   
-.kotak3{
-    background-color: DeepPink;
-    width: 600px;
-   height: 200px;
-   float:left:
-  
-{
+
     
     
