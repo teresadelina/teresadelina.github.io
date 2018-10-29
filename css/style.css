@@ -61,25 +61,25 @@ li{
 .kotak3{
     background-color: DeepPink;
     width: 600px;
-   height: 200px;
+   height:30px;
 }
 .adel {
   background-color: lime;
     width: 600PX;
     float:left;
-    height:200px;
+    height:30px;
 }  
 .you {
     background-color:rgb(0,0,0);
     width:600PX;
     float:left;
-    height:200px;
+    height:30px;
 }  
   .boy {
     background-color:rgb(0,0,0);
     width: 33.33%;
     float:left;
-    height:200px;
+    height:30px;
 
     
     
