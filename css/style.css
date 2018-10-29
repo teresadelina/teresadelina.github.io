@@ -118,4 +118,12 @@ img{
     width:350px;
     float:left;
     height:450px;
+   
+    .are {
+    background-color:rgb(230,230,250);
+    width:350px;
+    float:left;
+    height:450px;
+  }
+    
     
