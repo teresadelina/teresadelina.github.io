@@ -65,9 +65,9 @@ li{
 }
 .adel {
   background-color: lime;
-    width:300PX;
+    width:350PX;
     float:left;
-    height:200px;
+    height:250px;
 }  
 
 img {
@@ -76,15 +76,21 @@ img {
 
 .you {
     background-color:rgb(0,0,0);
-    width:300PX;
+    width:350PX;
     float:left;
-    height:200px;
+    height:250px;
+}
+ img{
+   padding:20px;
 }  
   .boy {
     background-color:rgb(0,0,0);
-    width:300px;
+    width:350px;
     float:left;
-    height:200px;
-
+    height:250px;
+}
+ img{
+   padding:20px;
+}
     
     
