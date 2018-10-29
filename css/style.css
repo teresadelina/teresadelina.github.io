@@ -70,7 +70,9 @@ li{
     height:200px;
 }  
 
-.adel img {padding: 20px;}
+img {
+  padding: 20px;
+}
 
 .you {
     background-color:rgb(0,0,0);
