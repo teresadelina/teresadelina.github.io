@@ -95,5 +95,27 @@ img{
 img{
    padding: 20px;
 }
-    
+   .ini {
+    background-color:rgb(0,0,0);
+    width:350px;
+    float:left;
+     height:250px;
+}
+ .itu {
+    background-color:rgb(0,0,0);
+    width:350px;
+    float:left;
+    height:250px;
+}
+ .hanya {
+    background-color:rgb(0,0,0);
+    width:350px;
+    float:left;
+    height:250px;
+} 
+   .kamu {
+    background-color:rgb(0,0,0);
+    width:350px;
+    float:left;
+    height:250px;
     
