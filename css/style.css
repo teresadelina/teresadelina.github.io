@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Mali:400i');
 @import url('https://fonts.googleapis.com/css?family=Lobster|Mali:400i');
 @import url('https://fonts.googleapis.com/css?family=Nunito');
-
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand');
 
 
 
@@ -14,7 +14,7 @@ h1 {
   background-color:black;
   color:red;
   font-size:30px;
-  font-family: 'Mali', cursive;
+  font-family: 'Patrick Hand', cursive;
  
 }
 
