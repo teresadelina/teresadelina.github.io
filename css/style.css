@@ -121,7 +121,7 @@ img{
   
    .big{
      text-align: center;
-     color:rgb(255, 77, 77)
+     color: rgb(255, 77, 77);
      }
    
    } 
@@ -143,6 +143,6 @@ img{
     background-color:rgb(0, 204, 255));
     width:350px;
     float:left;
-    height:450px  
+    height:450px;  
   
    
