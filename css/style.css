@@ -48,20 +48,20 @@ li{
 
 .kotak1 {
    background-color: yellow;
-   width:300px;
+   width:300p%;
    height:200px;
    float:left:
 }
    
 .kotak2{
    background-color: Chartreuse;
-   width:300px;
+   width:300%;
    height:200px;
 }
    
 .kotak3{
     background-color: DeepPink;
-    width:300px;
+    width:300%;
    height:200px;
 }
 .adel {
