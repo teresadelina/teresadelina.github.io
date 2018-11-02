@@ -97,24 +97,24 @@ img{
 }
    .ini {
     background-color:rgb(250,128,114);
-    width:350px;
+    width:350%;
     float:left;
-     height:450px;
-     padding-margin;20px
+    height:450px;
+    
 }
  .itu {
     background-color:rgb(255,160,122);
-    width:350px;
+    width:350%;
     float:left;
     height:450px;
-   padding-margin;20px
+  
 }
  .hanya {
     background-color:rgb(255,20,147);
-    width:350px;
+    width:350%;
     float:left;
     height:450px;
-   padding-margin;20px
+ 
 } 
    .kamu {
     background-color:rgb(255, 153, 255);
@@ -131,35 +131,35 @@ img{
    } 
    .coba {
     background-color:rgb(0, 153, 255);
-    width:350px;
+    width:350%;
     float:left;
     height:550px;
      
    } 
    .berani {
     background-color:rgb(102, 153, 255);
-    width:350px;
+    width:350%;
     float:left;
     height:550px
       
     } 
    .kuat{
     background-color:rgb(0, 204, 255);
-    width:350px;
+    width:350%;
     float:left;
     height:550px;  
      
     } 
    .parent{
     background-color:rgb(0, 204, 255);
-    width:350px;
+    width:350%;
     float:left;
     height:550px;  
     padding:20px;
      } 
    .anak1{
     background-color:rgb(0, 204, 255);
-    width:350px;
+    width:350%;
     float:right;
     height:550px;
     padding:35px;
