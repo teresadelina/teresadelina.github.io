@@ -148,5 +148,19 @@ img{
     width:350px;
     float:left;
     height:550px;  
+     
+    } 
+   .parent{
+    background-color:rgb(0, 204, 255);
+    width:350px;
+    float:left;
+    height:550px;  
+     
+     } 
+   .anak1{
+    background-color:rgb(0, 204, 255);
+    width:350px;
+    float:right;
+    height:550px;  
   
    
